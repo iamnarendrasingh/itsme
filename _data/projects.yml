@@ -1,16 +1,17 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# donutfinder.io
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: <a href="https://www.pma2020.org/">PMA2020</a>
+  role: Data Manager
+  duration: 2016 &mdash; Present
+   #url: https://www.pma2020.org/
+  description: PMA2020 uses innovative mobile technology to support low-cost, rapid-turnaround surveys monitoring key indicators for family planning, water, sanitation and hygiene and other health and development indicators. The project is implemented by local universities and research organizations in 11 countries, deploying a cadre of female resident enumerators trained in mobile-assisted data collection. PMA2020 establishes a sentinel data collection platform that can be utilized for other health program areas
+
+#TPO College Project
+- project: TPO (Training and Placement Office)
+  role : Web Developer
+  duration: Sep2012 March
+  #url: https://assistant.google.com/services/a/uid/000000346ceb7aba?hl=en
+  description: It was a team project where I was responsible for front hand of the website.

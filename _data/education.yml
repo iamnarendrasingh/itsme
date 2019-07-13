@@ -1,13 +1,23 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Technology, Information Technology
+  uni: RTU Kota
+  year: 2009 &mdash; 2013
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Completed my B.Tech degree with 65%.
+    - award: Got First Prize in national level web design competition at VIT
+    - award: Got consolation prize in nation level web design competition at ACEIT Jaipur
+ # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Sec Sr School
+  uni: RBSE
+  year: 2009
+  awards: 
+    - award: Got 73% in 12th Class my subjests are Physics, Chemistry and Maths.
+  #summary: I completed my Sec Sr with Science and Maths.
+  
+- degree: Sec Sr School
+  uni: RBSE
+  year: 2006
+  awards:
+   - award: Got 76% in 10th Class.  
+  #summary: I completed my secondary with subjects which we study in RBSE.
