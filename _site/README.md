@@ -1,8 +1,8 @@
 # Resume template
-
+# Make sure you're using a `gh-pages` branch only for your CV.
 *A simple Jekyll + GitHub Pages powered resume template.*
 
-![img](images/screenshot.png)
+![img](images/avatar.jpg)
 
 ## Docs
 
@@ -10,14 +10,15 @@
 
 To test locally, run the following in your terminal:
 
-1. Clone repo locally
+1. Clone repo locally with `git clone https://github.com/iamnarendrasingh/itsme.git`
 1. `bundle install`
 2. `bundle exec jekyll serve`
 3. Open your browser to `localhost:4000`
 
 ### Customizing
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize. 
+I will recommend to use Notepad++ becasue it is easy to use.
 
 #### Options/configuration
 
@@ -57,3 +58,6 @@ If you spot a bug, or want to improve the code, or even make the dummy content b
 The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
 
 Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
+
+## E-Mail 
+You can email me on `narendraa.singhshekhawat@gmail.com`
