@@ -1,13 +1,13 @@
 # Skills
 # Survey Skills
 - skill: ODK
-  description: Designing a Survey form for data collection. Automation of downloading data from the Server.
+  description: Designing a Survey form for data collection. 
 
 - skill: Stata
-  description: Variable template, Preparing do files, generating reports in excel with the help of do files, making charts, carrying out analysis etc.
+  description: Data Cleaning, Data preparation, Report generation in Excel, and Data Visualization.
 
 - skill: R
-  description: I start my work with prep data as prepare your data for analysis, including converting data types, filling in missing values, and using fuzzy string matching. 
+  description: Being open source fascinated I can do Data Cleaning, Data preparation, Report generation in Excel, and Data Visualization in R as well.
   
 - skill: GIS
   description: With the help of QGIS and Google Earth i will cross check whether field work has been doing in right location or not.
@@ -21,6 +21,7 @@
   
 - skill: Action on Google
   description: I made few app on Action on google and development is underway.
-  
- 
+
+- skill: Shell Programming
+  description:	Automation of downloading data from the Server. 
   
