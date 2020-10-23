@@ -3,19 +3,15 @@
 - skill: Data Collection Software
   description: <a href ="https://forum.getodk.org/u/iamnarendrasingh/summary">ODK</a>, Google forms. 
 
-- skill: Stata
-  description: Data Cleaning, Data preparation, Report generation in Excel, and Data Visualization.
+- skill: Data Cleanning Software
+  description: STATA , R , Data Cleaning, Data preparation, Report generation in Excel, and Data Visualization.
 
-- skill: R
-  description: Being open source fascinated I can do Data Cleaning, Data preparation, Report generation in Excel, and Data Visualization in R as well.
+- skill: Data Visualization Software
+  description: Power-BI , R, Excel.
   
-- skill: GIS
-  description: With the help of QGIS and Google Earth i will cross check whether field work has been doing in right location or not.
+- skill: GIS Software
+  description: QGIS , Google-Earth , With the help of QGIS and Google Earth i will cross check whether field work has been doing in right location or not.
   
-
-- skill: Excel
-  description: Pivot Table.
-
 - skill: Monitoring and Evaluation 
   description: Able to create monitoring and evaluation system for daily tracking of survey quality and results in coordination with stakeholders.
   
